@@ -1,5 +1,5 @@
 # Contador-NewYear
 Contador para o ano novo :)
 
-#Para Exececutar
+# Para Exececutar
 Abrir o index.html no navegador
